@@ -1,0 +1,94 @@
+
+.AboutMeContianer
+{
+	
+}
+
+.AboutMeContainer .Title
+{
+	margin-top: 5rem;
+	margin-bottom: 3rem;
+	
+	text-align: center;
+	
+}
+
+.AboutMeContainer .Title span
+{
+	color: #000000;
+	
+	border-bottom-color: #cccccc;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	
+	line-height: 1.5;
+	
+	font-family: Black Han Sans,sans-serif;
+	font-weight: 800;
+	font-size: 3rem;
+}
+
+.AboutMeContainer .Info
+{
+	display: grid;
+	place-items: center;
+	
+	grid-template-columns: 1fr 1fr;
+	
+	
+}
+
+
+.AboutMeContainer .Info .person,
+.AboutMeContainer .Info .calendar,
+.AboutMeContainer .Info .geo-alt,
+.AboutMeContainer .Info .telephone,
+.AboutMeContainer .Info .envelope,
+.AboutMeContainer .Info .pencil
+{
+	margin-bottom: 3rem;
+	display: flex;
+	
+	width: 400px;
+	
+	min-width: 200px;
+}
+
+.AboutMeContainer .Info .person div,
+.AboutMeContainer .Info .calendar div,
+.AboutMeContainer .Info .geo-alt div,
+.AboutMeContainer .Info .telephone div,
+.AboutMeContainer .Info .envelope div,
+.AboutMeContainer .Info .pencil div
+{
+	margin-left: 1rem;
+	margin-top: 2rem;
+	margin-bottom: 0.5rem;
+}
+
+.AboutMeContainer .Info .person div .subTitle,
+.AboutMeContainer .Info .calendar div .subTitle,
+.AboutMeContainer .Info .geo-alt div .subTitle,
+.AboutMeContainer .Info .telephone div .subTitle,
+.AboutMeContainer .Info .envelope div .subTitle,
+.AboutMeContainer .Info .pencil div .subTitle
+{
+	font-weight: 700;
+	font-size: 1.25rem;
+	font-family: Noto Sans KR,sans-serif;
+}
+
+.AboutMeContainer .Info .person div span,
+.AboutMeContainer .Info .calendar div span,
+.AboutMeContainer .Info .geo-alt div span,
+.AboutMeContainer .Info .telephone div span,
+.AboutMeContainer .Info .envelope div span,
+.AboutMeContainer .Info .pencil div span
+{
+	font-family: Noto Sans KR,sans-serif;
+}
+
+.AboutMeContainer .Info img
+{
+	width: 2rem;
+}

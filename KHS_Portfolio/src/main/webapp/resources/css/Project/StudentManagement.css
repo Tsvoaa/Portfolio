@@ -1,0 +1,109 @@
+
+a
+{
+	text-decoration: none;
+}
+
+.StudentManagementContainer
+{
+	background-color: white;
+	
+	border-radius: 10px;
+	
+	width: 90%;
+	
+	margin-top: 1rem;
+	margin: 0 auto;
+	margin-bottom: 1rem;
+}
+
+
+.StudentManagementContainer .Subject
+{
+	font-size: 2rem;
+	font-family: Black Han Sans, sans-serif;
+	font-weight: 800;
+	
+	color: #222;
+	
+	text-align: center;
+	
+	margin-bottom: 1rem;
+}
+
+.StudentManagementContainer .Content
+{
+	font-size: 1rem;
+	font-weight: 400;
+	color: #6c757d;
+	opacity: 0.8;
+	
+	text-align: center;
+	
+	margin-bottom: 2rem;
+}
+
+.StudentManagementContainer .View
+{
+	text-align: center;
+}
+
+.StudentManagementContainer .ViewContent
+{
+	width: 80%;
+	
+	margin-top: 2rem;
+	margin: 0 auto;
+	margin-bottom: 1rem;
+}
+
+.StudentManagementContainer .ViewContent .first
+{
+	margin-top: 4rem;
+}
+
+.StudentManagementContainer .ViewContent .second
+{
+	margin-top: 1rem;
+}
+
+.StudentManagementContainer .ViewContent .third
+{
+	margin-top: 1rem;
+	margin-bottom: 0.3rem;
+	
+	border-bottom-color: #cccccc;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	
+	line-height: 1.5;
+}
+
+.StudentManagementContainer .Info
+{
+	height: 200px;
+}
+
+.StudentManagementContainer .Info div
+{
+	width: 80%;
+	
+	margin: 0 auto;
+}
+
+.StudentManagementContainer .Info div .Subject
+{
+	font-size: 1rem;
+	font-weight: 600;
+	color: #000000;
+	opacity: 0.8;
+	
+	width: 100px;
+}
+
+
+
+
+
+
+

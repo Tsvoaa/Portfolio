@@ -1,0 +1,128 @@
+
+.HomePEasyContainer
+{
+	background-color: white;
+	
+	border-radius: 10px;
+	
+	width: 90%;
+	
+	margin: 0 auto;
+	margin-bottom: 1rem;
+}
+
+.HomePEasyContainer .Subject
+{
+	font-size: 2rem;
+	font-family: Black Han Sans, sans-serif;
+	font-weight: 800;
+	
+	color: #222;
+	
+	text-align: center;
+	
+	margin-bottom: 1rem;
+}
+
+.HomePEasyContainer .Content
+{
+	font-size: 1rem;
+	font-weight: 400;
+	color: #6c757d;
+	opacity: 0.8;
+	
+	text-align: center;
+	
+	margin-bottom: 2rem;
+}
+
+.HomePEasyContainer .View
+{
+	margin-top: 20px;
+	
+	width: 80%;
+	height: 100%;
+	
+	margin: 0 auto;
+}
+
+.HomePEasyContainer .View .carousel .carousel-item .carousel-caption
+{
+	color: white;
+}
+
+.HomePEasyContainer .View .carousel .carousel-control-prev .carousel-control-prev-icon,
+.HomePEasyContainer .View .carousel .carousel-control-next .carousel-control-next-icon
+{
+	background-color: black;
+}
+
+.HomePEasyContainer .View .carousel .carousel-indicators li
+{
+	background-color: black;
+}
+
+.HomePEasyContainer .View .carousel .carousel-inner .carousel-item .carousel-caption
+{
+	background-color: rgba(0,0,0,0.5);
+}
+
+.HomePEasyContainer .ViewContent
+{
+	width: 80%;
+	
+	margin-top: 2rem;
+	margin: 0 auto;
+	margin-bottom: 1rem;
+}
+
+.HomePEasyContainer .ViewContent .first
+{
+	margin-top: 4rem;
+}
+
+.HomePEasyContainer .ViewContent .first .firstSubject
+{
+	font-weight: bold;
+}
+
+.HomePEasyContainer .ViewContent .second
+{
+	margin-top: 1rem;
+}
+
+.HomePEasyContainer .ViewContent .third
+{
+	margin-top: 1rem;
+	margin-bottom: 0.3rem;
+	
+	border-bottom-color: #cccccc;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	
+	line-height: 1.5;
+}
+
+.HomePEasyContainer .Info
+{
+	height: 200px;
+}
+
+.HomePEasyContainer .Info div
+{
+	width: 80%;
+	
+	margin: 0 auto;
+}
+
+.HomePEasyContainer .Info div .Subject
+{
+	font-size: 1rem;
+	font-weight: 600;
+	color: #000000;
+	opacity: 0.8;
+	
+	width: 100px;
+}
+
+

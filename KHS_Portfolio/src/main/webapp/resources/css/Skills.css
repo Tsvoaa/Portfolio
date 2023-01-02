@@ -1,0 +1,168 @@
+
+.SkilsContainer
+{
+	background-color: #f9c51d;
+}
+
+.SkilsContainer .Title
+{	
+	text-align: center;
+	
+	width: 90%;
+	
+	margin-bottom: 2rem;
+}
+
+.SkilsContainer .Title span
+{
+	color: #000000;
+	
+	border-bottom-color: #000000;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	
+	line-height: 1.5;
+	
+	font-family: Black Han Sans,sans-serif;
+	font-weight: 800;
+	font-size: 3rem;
+	
+	margin-top: 5rem;
+}
+
+.SkilsContainer .SkillInfo
+{
+	display: flex;
+	flex-direction: row;
+    flex-wrap: wrap;
+	align-content: space-around;
+}
+
+.SkilsContainer .SkillInfo .FrontEnd
+{
+	background-color: white;
+	width: 19rem;
+	
+	margin: 0 auto 2rem;
+	margin-bottom: 2rem;
+	
+	border-radius: 1rem;
+}
+
+.SkilsContainer .SkillInfo .BackEnd
+{
+	background-color: white;
+	width: 19rem;
+	
+	margin: 0 auto 2rem;
+	margin-bottom: 2rem;
+	
+	border-radius: 1rem;
+}
+
+.SkilsContainer .SkillInfo .Deployment
+{
+	background-color: white;
+	width: 25rem;
+	
+	margin: 0 auto 2rem;
+	margin-bottom: 2rem;
+	
+	border-radius: 1rem;
+}
+
+.SkilsContainer .SkillInfo .Version
+{
+	background-color: white;
+	width: 19rem;
+	
+	margin: 0 auto 2rem;
+	margin-bottom: 2rem;
+
+	border-radius: 1rem;
+}
+
+.SkilsContainer .SkillInfo .Certificate
+{
+	background-color: white;
+	width: 19rem;
+	
+	margin: 0 auto 2rem;
+	margin-bottom: 2rem;
+	
+	border-radius: 1rem;
+}
+
+.SkilsContainer .SkillInfo .FrontEnd .Subject,
+.SkilsContainer .SkillInfo .BackEnd .Subject,
+.SkilsContainer .SkillInfo .Deployment .Subject,
+.SkilsContainer .SkillInfo .Version .Subject,
+.SkilsContainer .SkillInfo .Version .Subject,
+.SkilsContainer .SkillInfo .Certificate .Subject
+{
+	margin-bottom: 1.5rem;
+    border-bottom: 1px solid #ccc;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #f4623a;
+    
+    width: 90%;
+    margin: 0 auto;
+}
+
+.SkilsContainer .SkillInfo .FrontEnd .View
+{
+	text-align: center;
+	width: 100%;
+}
+
+.SkilsContainer .SkillInfo .FrontEnd .View img
+{
+	width: 70%;
+}
+
+.SkilsContainer .SkillInfo .BackEnd .View
+{
+	text-align: center;
+	width: 100%;
+}
+
+.SkilsContainer .SkillInfo .BackEnd .View img
+{
+	width: 70%;
+}
+
+.SkilsContainer .SkillInfo .Deployment .View
+{
+	text-align: center;
+	width: 100%;
+}
+
+.SkilsContainer .SkillInfo .Deployment .View img
+{
+	width: 70%;
+}
+
+.SkilsContainer .SkillInfo .Version .View
+{
+	text-align: center;
+	width: 100%;
+	
+}
+
+.SkilsContainer .SkillInfo .Version .View img
+{
+	width: 70%;
+}
+
+.SkilsContainer .SkillInfo .Certificate .View
+{
+	text-align: center;
+	width: 100%;
+	
+	margin-bottom: 1rem;
+}
+.SkilsContainer .SkillInfo .Certificate .View img
+{
+	width: 70%;
+}

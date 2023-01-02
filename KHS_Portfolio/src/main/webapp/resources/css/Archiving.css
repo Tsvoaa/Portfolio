@@ -1,0 +1,103 @@
+
+
+.ArchivingContainer 
+{
+	background-color: #222222;
+
+	width: 100%;
+	height: 30rem;
+	
+}
+
+
+.ArchivingContainer .Title
+{
+	margin-bottom: 3rem;
+	
+	text-align: center;
+	color: white;
+}
+
+.ArchivingContainer .Title span
+{
+	color: #ffffff;
+	
+	border-bottom-color: #cccccc;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	
+	line-height: 1.5;
+	
+	font-family: Black Han Sans,sans-serif;
+	font-weight: 800;
+	font-size: 3rem;
+}
+
+.ArchivingContainer .git
+{
+	width: 100%;
+	max-width: 30rem;
+	background-color: white;
+	
+	border-radius: 15px;
+	
+	display: flex;
+	margin: 0 auto;
+	
+}
+
+.ArchivingContainer .git .gitInfo
+{
+	
+}
+
+.ArchivingContainer .git .gitInfo a
+{
+	text-decoration: none;
+	color : black;
+	
+	width: 100%;
+	height: 100%;
+}
+
+.ArchivingContainer .git .gitInfo a .Image
+{
+	width: 12rem;
+	margin-top: 1rem;
+	margin-left: 1rem;
+}
+
+.ArchivingContainer .git .gitInfo a .Image img
+{
+	width: 100%;	
+	margin-top: 2rem;
+	margin-left: 1rem;
+}
+
+.ArchivingContainer .git .gitInfo a .Url
+{
+	margin-top: 2rem;
+	margin-left: 2rem;
+}
+
+.ArchivingContainer .git .gitInfo a .textTitle
+{
+	margin-top: 1.5rem;
+	margin-left: 2rem;
+}
+
+.ArchivingContainer .git .gitInfo a .textList
+{
+	margin-top: 1rem;
+	margin-left: 2rem;
+}
+
+.ArchivingContainer .git .gitInfo a .textList ul
+{
+	margin-bottom: 3rem;
+}
+
+.ArchivingContainer .git .gitInfo a .textList ul li
+{
+	margin-top: 0.5rem;
+}
