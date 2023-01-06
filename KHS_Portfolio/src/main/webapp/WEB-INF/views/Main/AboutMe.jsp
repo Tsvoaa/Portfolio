@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="/kim/resources/css/AboutMe.css?ver=4" >
+	<link rel="stylesheet" href="/KHS_Portfolio/resources/css/AboutMe.css?ver=4" >
 </head>
 <body>
 	<div class="AboutMeContainer" id="AboutMeContainer">
@@ -14,7 +14,7 @@
 		<div class="InfoCon">
 			<div class="Info">
 				<div class="person" >
-					<img src="/kim/resources/img/AboutMe/person.svg" alt />
+					<img src="/KHS_Portfolio/resources/img/AboutMe/person.svg" alt />
 					<div>
 						<span class="subTitle">이름</span>
 						<br>
@@ -23,7 +23,7 @@
 				
 				</div>
 				<div class="calendar">
-					<img src="/kim/resources/img/AboutMe/calendar.svg" alt />
+					<img src="/KHS_Portfolio/resources/img/AboutMe/calendar.svg" alt />
 					<div>
 						<span class="subTitle">생년월일</span>
 						<br>
@@ -32,7 +32,7 @@
 				
 				</div>
 				<div class="geo-alt">
-					<img src="/kim/resources/img/AboutMe/geo-alt.svg" alt />
+					<img src="/KHS_Portfolio/resources/img/AboutMe/geo-alt.svg" alt />
 					<div>
 						<span class="subTitle">주소지</span>
 						<br>
@@ -40,7 +40,7 @@
 					</div>
 				</div>
 				<div class="telephone">
-					<img src="/kim/resources/img/AboutMe/telephone.svg" alt />
+					<img src="/KHS_Portfolio/resources/img/AboutMe/telephone.svg" alt />
 					<div>
 						<span class="subTitle">연락처</span>
 						<br>
@@ -48,7 +48,7 @@
 					</div>
 				</div>
 				<div class="envelope">
-					<img src="/kim/resources/img/AboutMe/envelope.svg" alt />
+					<img src="/KHS_Portfolio/resources/img/AboutMe/envelope.svg" alt />
 					<div>
 						<span class="subTitle">이메일</span>
 						<br>
@@ -56,7 +56,7 @@
 					</div>
 				</div>
 				<div class="pencil">
-					<img src="/kim/resources/img/AboutMe/pencil.svg" alt />
+					<img src="/KHS_Portfolio/resources/img/AboutMe/pencil.svg" alt />
 					<div>
 						<span class="subTitle">학력</span>
 						<br>

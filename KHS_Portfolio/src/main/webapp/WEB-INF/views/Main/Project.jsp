@@ -10,7 +10,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="/kim/resources/css/Project.css?ver=2" >
+	<link rel="stylesheet" href="/KHS_Portfolio/resources/css/Project.css?ver=2" >
 </head>
 <body>
 	<div class="ProjectContainer" name="ProjectContainer">

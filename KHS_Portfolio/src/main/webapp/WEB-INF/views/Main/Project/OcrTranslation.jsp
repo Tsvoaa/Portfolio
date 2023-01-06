@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="/kim/resources/css/Project/OcrTranslation.css?ver=1" >
+	<link rel="stylesheet" href="/KHS_Portfolio/resources/css/Project/OcrTranslation.css?ver=1" >
 </head>
 <body>
 	<div class="OcrTranslationContainer" id="OcrTranslationContainer">
@@ -15,7 +15,7 @@
 			<span>2022.12 ~ (1인 프로젝트)</span>
 		</div>
 		<div class="View">
-			<img src="/kim/resources/img/Project/OcrTranslation/Ocr.PNG" alt>
+			<img src="/KHS_Portfolio/resources/img/Project/OcrTranslation/Ocr.PNG" alt>
 		</div>
 		<div class="ViewContent">
 			<div = class="first">

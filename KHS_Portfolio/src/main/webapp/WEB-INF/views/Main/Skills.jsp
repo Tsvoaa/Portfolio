@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="/kim/resources/css/Skills.css?ver=1" >
+	<link rel="stylesheet" href="/KHS_Portfolio/resources/css/Skills.css?ver=1" >
 </head>
 <body>
 	<div class="SkilsContainer" id="SkillsContainer">
@@ -17,7 +17,7 @@
 					<span>FrontEnd</span>
 				</div>
 				<div class="View">
-					<img src="/kim/resources/img/Skills/frontend.jpg" alt >
+					<img src="/KHS_Portfolio/resources/img/Skills/frontend.jpg" alt >
 				</div>
 			</div>
 			<div class="BackEnd">
@@ -25,7 +25,7 @@
 					<span>BackEnd</span>
 				</div>
 				<div class="View">
-					<img src="/kim/resources/img/Skills/backend.jpg" alt>
+					<img src="/KHS_Portfolio/resources/img/Skills/backend.jpg" alt>
 				</div>
 			</div>
 			<div class="Deployment">
@@ -33,7 +33,7 @@
 					<span>Deployment</span>
 				</div>
 				<div class="View">
-					<img src="/kim/resources/img/Skills/deployment.jpg" alt>
+					<img src="/KHS_Portfolio/resources/img/Skills/deployment.jpg" alt>
 				</div>
 			</div>
 			<div class="Version">
@@ -41,7 +41,7 @@
 					<span>Version Control</span>
 				</div>
 				<div class="View">
-					<img src="/kim/resources/img/Skills/version-control.jpg" alt>
+					<img src="/KHS_Portfolio/resources/img/Skills/version-control.jpg" alt>
 				</div>
 			</div>
 			<div class="Certificate">
@@ -49,7 +49,7 @@
 					<span>Certificate</span>
 				</div>
 				<div class="View">
-					<img src="/kim/resources/img/Skills/certificate.jpg" alt >
+					<img src="/KHS_Portfolio/resources/img/Skills/certificate.jpg" alt >
 				</div>
 			</div>
 		</div>
