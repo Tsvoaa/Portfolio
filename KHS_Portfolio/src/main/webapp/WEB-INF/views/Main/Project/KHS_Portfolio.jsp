@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="/kim/resources/css/Project/Khs_Portfolio.css?ver=1" >
+	<link rel="stylesheet" href="/KHS_Portfolio//resources/css/Project/Khs_Portfolio.css?ver=1" >
 </head>
 <body>
 	<div class="KHSContainer" id="KHSContainer">
@@ -15,7 +15,7 @@
 			<span>2023.01 ~ (1인 프로젝트)</span>
 		</div>
 		<div class="View">
-			<img src="/kim/resources/img/Project/Khs_Portfolio/khs.PNG" alt>
+			<img src="/KHS_Portfolio//resources/img/Project/Khs_Portfolio/khs.PNG" alt>
 		</div>
 		<div class="ViewContent">
 			<div class="first">
