@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="/KHS_Portfolio/resources/css/Info.css?ver=6" >
+	<link rel="stylesheet" href="/kim/resources/css/Info.css?ver=6" >
 </head>
 <body>
 	<div class="InfoContainer" id = "#InfoContainer">

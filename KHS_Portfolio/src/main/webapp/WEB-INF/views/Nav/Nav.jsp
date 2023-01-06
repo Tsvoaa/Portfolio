@@ -40,6 +40,7 @@
           						<ul class="dropdown-menu">
             						<li><a class="dropdown-item" href="#HomePEasyContainer">HomePEasy</a></li>
             						<li><a class="dropdown-item" href="#StudentManagementContainer">StudentManagement</a></li>
+            						<li><a class="dropdown-item" href="#KHSContainer">KHS_Portfolio</a></li>
             						<li><a class="dropdown-item" href="#OcrTranslationContainer">OcrTranslation</a></li>
           						</ul>
         					</li>

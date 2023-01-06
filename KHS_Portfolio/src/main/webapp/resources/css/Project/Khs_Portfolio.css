@@ -1,0 +1,87 @@
+
+.KHSContainer
+{
+	background-color: white;
+	
+	border-radius: 10px;
+	
+	width: 90%;
+	
+	margin: 0 auto;
+	margin-bottom: 1rem;
+}
+
+.KHSContainer .Subject
+{
+	font-size: 2rem;
+	font-family: Black Han Sans, sans-serif;
+	font-weight: 800;
+	
+	color: #222;
+	text-align: center;
+	
+	margin-bottom: 1rem;
+	
+}
+
+.KHSContainer .Content
+{
+	font-size: 1rem;
+	font-weight: 400;
+	
+	color: #6c757d;
+	opacity: 0.8;
+	
+	text-align: center;
+	
+	margin-bottom: 2rem;
+}
+
+
+.KHSContainer .View
+{
+	margin-top: 20px;
+	
+	width: 80%;
+	height: 100%;
+	
+	margin: 0 auto;
+}
+
+.KHSContainer .View img
+{
+	width: 100%;
+	
+	
+}
+
+
+.KHSContainer .ViewContent
+{
+	width: 80%;
+	
+	margin-top: 2rem;
+	margin: 0 auto;
+	margin-bottom: 1rem;
+}
+
+.KHSContainer .Info
+{
+	height: 200px;
+}
+
+.KHSContainer .Info div
+{
+	width: 80%;
+	margin: 0 auto;
+}
+
+.KHSContainer .Info div .Subject
+{
+	font-size: 1rem;
+	font-weight: 600;
+	color: #000000;
+	opacity: 0.8;
+	
+	width: 100px;
+}

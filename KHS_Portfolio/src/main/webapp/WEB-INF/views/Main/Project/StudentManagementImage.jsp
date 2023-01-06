@@ -5,7 +5,7 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-	<link rel="stylesheet" href="/KHS_Portfolio/resources/css/Project/StudentManagementImage.css?ver=1">
+	<link rel="stylesheet" href="/kim/resources/css/Project/StudentManagementImage.css?ver=1">
 
 	
 </head>
@@ -15,7 +15,7 @@
 						<span class="badge badge-pill badge-secondary">실행화면</span>
 						<div class="media">
 							<span class="badge badge-pill badge-secondary">1번</span>
-  							<img src="/KHS_Portfolio/resources/img/Project/StudentManagement/1.PNG" class="mr-3" alt="...">
+  							<img src="/kim/resources/img/Project/StudentManagement/1.PNG" class="mr-3" alt="...">
   							<div class="media-body">
     							<h5 class="mt-0">로그인 및 회원가입 폼</h5>
     							<p>
@@ -25,7 +25,7 @@
 						</div>
 						<div class="media">
 							<span class="badge badge-pill badge-secondary">2번</span>
-  							<img src="/KHS_Portfolio/resources/img/Project/StudentManagement/2.PNG" class="mr-3" alt="...">
+  							<img src="/kim/resources/img/Project/StudentManagement/2.PNG" class="mr-3" alt="...">
   							<div class="media-body">
     							<h5 class="mt-0">학생목록 폼</h5>
     							<p>
@@ -41,7 +41,7 @@
 						</div>
 						<div class="media">
 							<span class="badge badge-pill badge-secondary">3번</span>
-  							<img src="/KHS_Portfolio/resources/img/Project/StudentManagement/3.PNG" class="mr-3" alt="...">
+  							<img src="/kim/resources/img/Project/StudentManagement/3.PNG" class="mr-3" alt="...">
   							<div class="media-body">
     							<h5 class="mt-0">과목목록 폼</h5>
     							<p>
@@ -59,7 +59,7 @@
 						</div>
 						<div class="media">
 							<span class="badge badge-pill badge-secondary">4번</span>
-  							<img src="/KHS_Portfolio/resources/img/Project/StudentManagement/4.PNG" class="mr-3" alt="...">
+  							<img src="/kim/resources/img/Project/StudentManagement/4.PNG" class="mr-3" alt="...">
   							<div class="media-body">
     							<h5 class="mt-0">과목 수강 학생 폼</h5>
     							<p>
@@ -73,7 +73,7 @@
 						</div>
 						<div class="media">
 							<span class="badge badge-pill badge-secondary">5번</span>
-  							<img src="/KHS_Portfolio/resources/img/Project/StudentManagement/5.PNG" class="mr-3" alt="...">
+  							<img src="/kim/resources/img/Project/StudentManagement/5.PNG" class="mr-3" alt="...">
   							<div class="media-body">
     							<h5 class="mt-0">학생 추가 폼</h5>
     							<p>
@@ -85,7 +85,7 @@
 						</div>
 						<div class="media">
 							<span class="badge badge-pill badge-secondary">6번</span>
-  							<img src="/KHS_Portfolio/resources/img/Project/StudentManagement/6.PNG" class="mr-3" alt="...">
+  							<img src="/kim/resources/img/Project/StudentManagement/6.PNG" class="mr-3" alt="...">
   							<div class="media-body">
     							<h5 class="mt-0">과목목록 폼</h5>
     							<p>
@@ -103,7 +103,7 @@
 						</div>
 						<div class="media">
 							<span class="badge badge-pill badge-secondary">7번</span>
-  							<img src="/KHS_Portfolio/resources/img/Project/StudentManagement/7.PNG" class="mr-3" alt="...">
+  							<img src="/kim/resources/img/Project/StudentManagement/7.PNG" class="mr-3" alt="...">
   							<div class="media-body">
     							<h5 class="mt-0">과목목록 폼</h5>
     							<p>
@@ -115,7 +115,7 @@
 						</div>
 						<div class="media">
 							<span class="badge badge-pill badge-secondary">8번</span>
-  							<img src="/KHS_Portfolio/resources/img/Project/StudentManagement/8.PNG" class="mr-3" alt="...">
+  							<img src="/kim/resources/img/Project/StudentManagement/8.PNG" class="mr-3" alt="...">
   							<div class="media-body">
     							<h5 class="mt-0">과목목록 폼</h5>
     							<p>
@@ -127,7 +127,7 @@
 						</div>
 						<div class="media">
 							<span class="badge badge-pill badge-secondary">9번</span>
-  							<img src="/KHS_Portfolio/resources/img/Project/StudentManagement/9.PNG" class="mr-3" alt="...">
+  							<img src="/kim/resources/img/Project/StudentManagement/9.PNG" class="mr-3" alt="...">
   							<div class="media-body">
     							<h5 class="mt-0">과목목록 폼</h5>
     							<p>
@@ -139,7 +139,7 @@
 						</div>
 						<div class="media">
 							<span class="badge badge-pill badge-secondary">10번</span>
-  							<img src="/KHS_Portfolio/resources/img/Project/StudentManagement/10.PNG" class="mr-3" alt="...">
+  							<img src="/kim/resources/img/Project/StudentManagement/10.PNG" class="mr-3" alt="...">
   							<div class="media-body">
     							<h5 class="mt-0">과목목록 폼</h5>
     							<p>

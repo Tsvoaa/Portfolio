@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="/KHS_Portfolio/resources/css/Archiving.css?ver=5">
+	<link rel="stylesheet" href="/kim/resources/css/Archiving.css?ver=5">
 </head>
 <body>
 	<div class="ArchivingContainer" id="ArchivingContainer">
@@ -15,7 +15,7 @@
 			<div class="gitInfo" >
 				<a href="https://github.com/Tsvoaa">
 					<div class="Image">
-						<img src="/KHS_Portfolio/resources/img/Archiving/github.png" alt >
+						<img src="/kim/resources/img/Archiving/github.png" alt >
 					</div>
 					<div class="Url">
 						github.com/Tsvoaa

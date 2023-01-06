@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="/KHS_Portfolio/resources/css/Project/StudentManagement.css?ver=1">
+	<link rel="stylesheet" href="/kim/resources/css/Project/StudentManagement.css?ver=1">
 </head>
 <body>
 	<div class="StudentManagementContainer" id="StudentManagementContainer">
